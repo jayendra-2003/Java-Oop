@@ -1,3 +1,5 @@
+package Package1;
+
 class GarbageCollections05{
     public static void main(String[] args){
         People ppl;

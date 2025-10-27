@@ -1,3 +1,5 @@
+package Package1;
+
 class CreatingClass{
     public static void main(String[] args){
         Student std= new Student();
